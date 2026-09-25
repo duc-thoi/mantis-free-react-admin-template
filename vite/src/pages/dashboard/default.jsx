@@ -120,7 +120,7 @@ export default function DashboardDefault() {
       <Grid size={{ xs: 12, md: 7, lg: 8 }}>
         <Grid container sx={{ alignItems: 'center', justifyContent: 'space-between' }}>
           <Grid>
-            <Typography variant="h5">Recent Orders</Typography>
+            <Typography variant="h5">Recent Orders (Hexby test)</Typography>
           </Grid>
           <Grid>
             <IconButton onClick={handleOrderMenuClick}>

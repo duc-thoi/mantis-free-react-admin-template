@@ -225,7 +225,7 @@ export default function AuthRegister() {
               )}
               <Grid size={12}>
                 <AnimateButton>
-                  <Button fullWidth size="large" variant="contained" color="primary">
+                  <Button fullWidth size="large" variant="contained" color="error">
                     Create Account
                   </Button>
                 </AnimateButton>
